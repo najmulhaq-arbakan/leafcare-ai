@@ -187,7 +187,6 @@ Upload a clear image of a plant leaf.
         "Choose a sample image",
         [
             "None",
-            "Apple Scab",
             "Healthy Tomato",
             "Potato Late Blight",
             "Grape Black Rot"
