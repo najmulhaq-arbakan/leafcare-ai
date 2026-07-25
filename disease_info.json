@@ -1,0 +1,344 @@
+{
+  "Apple___Apple_scab": {
+    "plant": "Apple",
+    "disease": "Apple scab",
+    "description": "Apple_scab affects Apple.",
+    "symptoms": "Spots, lesions, discoloration.",
+    "causes": "Pathogens and favorable conditions.",
+    "treatment": "Use recommended management practices.",
+    "prevention": "Crop rotation, sanitation, resistant varieties."
+  },
+  "Apple___Black_rot": {
+    "plant": "Apple",
+    "disease": "Black rot",
+    "description": "Black_rot affects Apple.",
+    "symptoms": "Spots, lesions, discoloration.",
+    "causes": "Pathogens and favorable conditions.",
+    "treatment": "Use recommended management practices.",
+    "prevention": "Crop rotation, sanitation, resistant varieties."
+  },
+  "Apple___Cedar_apple_rust": {
+    "plant": "Apple",
+    "disease": "Cedar apple rust",
+    "description": "Cedar_apple_rust affects Apple.",
+    "symptoms": "Spots, lesions, discoloration.",
+    "causes": "Pathogens and favorable conditions.",
+    "treatment": "Use recommended management practices.",
+    "prevention": "Crop rotation, sanitation, resistant varieties."
+  },
+  "Apple___healthy": {
+    "plant": "Apple",
+    "disease": "healthy",
+    "description": "Healthy plant.",
+    "symptoms": "Healthy foliage.",
+    "causes": "Healthy growth.",
+    "treatment": "None required.",
+    "prevention": "Routine care."
+  },
+  "Blueberry___healthy": {
+    "plant": "Blueberry",
+    "disease": "healthy",
+    "description": "Healthy plant.",
+    "symptoms": "Healthy foliage.",
+    "causes": "Healthy growth.",
+    "treatment": "None required.",
+    "prevention": "Routine care."
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "plant": "Cherry_(including_sour)",
+    "disease": "Powdery mildew",
+    "description": "Powdery_mildew affects Cherry_(including_sour).",
+    "symptoms": "Spots, lesions, discoloration.",
+    "causes": "Pathogens and favorable conditions.",
+    "treatment": "Use recommended management practices.",
+    "prevention": "Crop rotation, sanitation, resistant varieties."
+  },
+  "Cherry_(including_sour)___healthy": {
+    "plant": "Cherry_(including_sour)",
+    "disease": "healthy",
+    "description": "Healthy plant.",
+    "symptoms": "Healthy foliage.",
+    "causes": "Healthy growth.",
+    "treatment": "None required.",
+    "prevention": "Routine care."
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "plant": "Corn_(maize)",
+    "disease": "Cercospora leaf spot Gray leaf spot",
+    "description": "Cercospora_leaf_spot Gray_leaf_spot affects Corn_(maize).",
+    "symptoms": "Spots, lesions, discoloration.",
+    "causes": "Pathogens and favorable conditions.",
+    "treatment": "Use recommended management practices.",
+    "prevention": "Crop rotation, sanitation, resistant varieties."
+  },
+  "Corn_(maize)___Common_rust_": {
+    "plant": "Corn_(maize)",
+    "disease": "Common rust ",
+    "description": "Common_rust_ affects Corn_(maize).",
+    "symptoms": "Spots, lesions, discoloration.",
+    "causes": "Pathogens and favorable conditions.",
+    "treatment": "Use recommended management practices.",
+    "prevention": "Crop rotation, sanitation, resistant varieties."
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "plant": "Corn_(maize)",
+    "disease": "Northern Leaf Blight",
+    "description": "Northern_Leaf_Blight affects Corn_(maize).",
+    "symptoms": "Spots, lesions, discoloration.",
+    "causes": "Pathogens and favorable conditions.",
+    "treatment": "Use recommended management practices.",
+    "prevention": "Crop rotation, sanitation, resistant varieties."
+  },
+  "Corn_(maize)___healthy": {
+    "plant": "Corn_(maize)",
+    "disease": "healthy",
+    "description": "Healthy plant.",
+    "symptoms": "Healthy foliage.",
+    "causes": "Healthy growth.",
+    "treatment": "None required.",
+    "prevention": "Routine care."
+  },
+  "Grape___Black_rot": {
+    "plant": "Grape",
+    "disease": "Black rot",
+    "description": "Black_rot affects Grape.",
+    "symptoms": "Spots, lesions, discoloration.",
+    "causes": "Pathogens and favorable conditions.",
+    "treatment": "Use recommended management practices.",
+    "prevention": "Crop rotation, sanitation, resistant varieties."
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "plant": "Grape",
+    "disease": "Esca (Black Measles)",
+    "description": "Esca_(Black_Measles) affects Grape.",
+    "symptoms": "Spots, lesions, discoloration.",
+    "causes": "Pathogens and favorable conditions.",
+    "treatment": "Use recommended management practices.",
+    "prevention": "Crop rotation, sanitation, resistant varieties."
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "plant": "Grape",
+    "disease": "Leaf blight (Isariopsis Leaf Spot)",
+    "description": "Leaf_blight_(Isariopsis_Leaf_Spot) affects Grape.",
+    "symptoms": "Spots, lesions, discoloration.",
+    "causes": "Pathogens and favorable conditions.",
+    "treatment": "Use recommended management practices.",
+    "prevention": "Crop rotation, sanitation, resistant varieties."
+  },
+  "Grape___healthy": {
+    "plant": "Grape",
+    "disease": "healthy",
+    "description": "Healthy plant.",
+    "symptoms": "Healthy foliage.",
+    "causes": "Healthy growth.",
+    "treatment": "None required.",
+    "prevention": "Routine care."
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "plant": "Orange",
+    "disease": "Haunglongbing (Citrus greening)",
+    "description": "Haunglongbing_(Citrus_greening) affects Orange.",
+    "symptoms": "Spots, lesions, discoloration.",
+    "causes": "Pathogens and favorable conditions.",
+    "treatment": "Use recommended management practices.",
+    "prevention": "Crop rotation, sanitation, resistant varieties."
+  },
+  "Peach___Bacterial_spot": {
+    "plant": "Peach",
+    "disease": "Bacterial spot",
+    "description": "Bacterial_spot affects Peach.",
+    "symptoms": "Spots, lesions, discoloration.",
+    "causes": "Pathogens and favorable conditions.",
+    "treatment": "Use recommended management practices.",
+    "prevention": "Crop rotation, sanitation, resistant varieties."
+  },
+  "Peach___healthy": {
+    "plant": "Peach",
+    "disease": "healthy",
+    "description": "Healthy plant.",
+    "symptoms": "Healthy foliage.",
+    "causes": "Healthy growth.",
+    "treatment": "None required.",
+    "prevention": "Routine care."
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "plant": "Pepper,_bell",
+    "disease": "Bacterial spot",
+    "description": "Bacterial_spot affects Pepper,_bell.",
+    "symptoms": "Spots, lesions, discoloration.",
+    "causes": "Pathogens and favorable conditions.",
+    "treatment": "Use recommended management practices.",
+    "prevention": "Crop rotation, sanitation, resistant varieties."
+  },
+  "Pepper,_bell___healthy": {
+    "plant": "Pepper,_bell",
+    "disease": "healthy",
+    "description": "Healthy plant.",
+    "symptoms": "Healthy foliage.",
+    "causes": "Healthy growth.",
+    "treatment": "None required.",
+    "prevention": "Routine care."
+  },
+  "Potato___Early_blight": {
+    "plant": "Potato",
+    "disease": "Early blight",
+    "description": "Early_blight affects Potato.",
+    "symptoms": "Spots, lesions, discoloration.",
+    "causes": "Pathogens and favorable conditions.",
+    "treatment": "Use recommended management practices.",
+    "prevention": "Crop rotation, sanitation, resistant varieties."
+  },
+  "Potato___Late_blight": {
+    "plant": "Potato",
+    "disease": "Late blight",
+    "description": "Late_blight affects Potato.",
+    "symptoms": "Spots, lesions, discoloration.",
+    "causes": "Pathogens and favorable conditions.",
+    "treatment": "Use recommended management practices.",
+    "prevention": "Crop rotation, sanitation, resistant varieties."
+  },
+  "Potato___healthy": {
+    "plant": "Potato",
+    "disease": "healthy",
+    "description": "Healthy plant.",
+    "symptoms": "Healthy foliage.",
+    "causes": "Healthy growth.",
+    "treatment": "None required.",
+    "prevention": "Routine care."
+  },
+  "Raspberry___healthy": {
+    "plant": "Raspberry",
+    "disease": "healthy",
+    "description": "Healthy plant.",
+    "symptoms": "Healthy foliage.",
+    "causes": "Healthy growth.",
+    "treatment": "None required.",
+    "prevention": "Routine care."
+  },
+  "Soybean___healthy": {
+    "plant": "Soybean",
+    "disease": "healthy",
+    "description": "Healthy plant.",
+    "symptoms": "Healthy foliage.",
+    "causes": "Healthy growth.",
+    "treatment": "None required.",
+    "prevention": "Routine care."
+  },
+  "Squash___Powdery_mildew": {
+    "plant": "Squash",
+    "disease": "Powdery mildew",
+    "description": "Powdery_mildew affects Squash.",
+    "symptoms": "Spots, lesions, discoloration.",
+    "causes": "Pathogens and favorable conditions.",
+    "treatment": "Use recommended management practices.",
+    "prevention": "Crop rotation, sanitation, resistant varieties."
+  },
+  "Strawberry___Leaf_scorch": {
+    "plant": "Strawberry",
+    "disease": "Leaf scorch",
+    "description": "Leaf_scorch affects Strawberry.",
+    "symptoms": "Spots, lesions, discoloration.",
+    "causes": "Pathogens and favorable conditions.",
+    "treatment": "Use recommended management practices.",
+    "prevention": "Crop rotation, sanitation, resistant varieties."
+  },
+  "Strawberry___healthy": {
+    "plant": "Strawberry",
+    "disease": "healthy",
+    "description": "Healthy plant.",
+    "symptoms": "Healthy foliage.",
+    "causes": "Healthy growth.",
+    "treatment": "None required.",
+    "prevention": "Routine care."
+  },
+  "Tomato___Bacterial_spot": {
+    "plant": "Tomato",
+    "disease": "Bacterial spot",
+    "description": "Bacterial_spot affects Tomato.",
+    "symptoms": "Spots, lesions, discoloration.",
+    "causes": "Pathogens and favorable conditions.",
+    "treatment": "Use recommended management practices.",
+    "prevention": "Crop rotation, sanitation, resistant varieties."
+  },
+  "Tomato___Early_blight": {
+    "plant": "Tomato",
+    "disease": "Early blight",
+    "description": "Early_blight affects Tomato.",
+    "symptoms": "Spots, lesions, discoloration.",
+    "causes": "Pathogens and favorable conditions.",
+    "treatment": "Use recommended management practices.",
+    "prevention": "Crop rotation, sanitation, resistant varieties."
+  },
+  "Tomato___Late_blight": {
+    "plant": "Tomato",
+    "disease": "Late blight",
+    "description": "Late_blight affects Tomato.",
+    "symptoms": "Spots, lesions, discoloration.",
+    "causes": "Pathogens and favorable conditions.",
+    "treatment": "Use recommended management practices.",
+    "prevention": "Crop rotation, sanitation, resistant varieties."
+  },
+  "Tomato___Leaf_Mold": {
+    "plant": "Tomato",
+    "disease": "Leaf Mold",
+    "description": "Leaf_Mold affects Tomato.",
+    "symptoms": "Spots, lesions, discoloration.",
+    "causes": "Pathogens and favorable conditions.",
+    "treatment": "Use recommended management practices.",
+    "prevention": "Crop rotation, sanitation, resistant varieties."
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "plant": "Tomato",
+    "disease": "Septoria leaf spot",
+    "description": "Septoria_leaf_spot affects Tomato.",
+    "symptoms": "Spots, lesions, discoloration.",
+    "causes": "Pathogens and favorable conditions.",
+    "treatment": "Use recommended management practices.",
+    "prevention": "Crop rotation, sanitation, resistant varieties."
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "plant": "Tomato",
+    "disease": "Spider mites Two-spotted spider mite",
+    "description": "Spider_mites Two-spotted_spider_mite affects Tomato.",
+    "symptoms": "Spots, lesions, discoloration.",
+    "causes": "Pathogens and favorable conditions.",
+    "treatment": "Use recommended management practices.",
+    "prevention": "Crop rotation, sanitation, resistant varieties."
+  },
+  "Tomato___Target_Spot": {
+    "plant": "Tomato",
+    "disease": "Target Spot",
+    "description": "Target_Spot affects Tomato.",
+    "symptoms": "Spots, lesions, discoloration.",
+    "causes": "Pathogens and favorable conditions.",
+    "treatment": "Use recommended management practices.",
+    "prevention": "Crop rotation, sanitation, resistant varieties."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "plant": "Tomato",
+    "disease": "Tomato Yellow Leaf Curl Virus",
+    "description": "Tomato_Yellow_Leaf_Curl_Virus affects Tomato.",
+    "symptoms": "Spots, lesions, discoloration.",
+    "causes": "Pathogens and favorable conditions.",
+    "treatment": "Use recommended management practices.",
+    "prevention": "Crop rotation, sanitation, resistant varieties."
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "plant": "Tomato",
+    "disease": "Tomato mosaic virus",
+    "description": "Tomato_mosaic_virus affects Tomato.",
+    "symptoms": "Spots, lesions, discoloration.",
+    "causes": "Pathogens and favorable conditions.",
+    "treatment": "Use recommended management practices.",
+    "prevention": "Crop rotation, sanitation, resistant varieties."
+  },
+  "Tomato___healthy": {
+    "plant": "Tomato",
+    "disease": "healthy",
+    "description": "Healthy plant.",
+    "symptoms": "Healthy foliage.",
+    "causes": "Healthy growth.",
+    "treatment": "None required.",
+    "prevention": "Routine care."
+  }
+}
