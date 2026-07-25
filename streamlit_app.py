@@ -274,6 +274,18 @@ Upload a clear image of a plant leaf.
                             st.success(f"{confidence:.2f}%")
 
                         st.progress(confidence / 100)
+                        # =====================================
+                        # Confidence Level
+                        # =====================================
+
+                        if confidence >= 95:
+                            st.success(f"🟢 High Confidence ({confidence:.2f}%)")
+
+                        elif confidence >= 80:
+                            st.warning(f"🟡 Moderate Confidence ({confidence:.2f}%)")
+
+                        else:
+                            st.error(f"🔴 Low Confidence ({confidence:.2f}%)")
                         # -----------------------------------------------
                         # Disease Information
                         # -----------------------------------------------
