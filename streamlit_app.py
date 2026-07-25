@@ -180,23 +180,51 @@ Upload a clear image of a plant leaf.
 """
     )
     st.markdown("---")
-    
+
+    st.subheader("📷 Try a Sample Image")
+
+    sample_choice = st.selectbox(
+        "Choose a sample image",
+        [
+            "None",
+            "Apple Scab",
+            "Healthy Tomato",
+            "Potato Late Blight",
+            "Grape Black Rot"
+        ]
+    )
+    sample_paths = {
+        "Apple Scab": "assets/samples/apple scab.JPG",
+        "Healthy Tomato": "assets/samples/healthy tomato.JPG",
+        "Potato Late Blight": "assets/samples/potato lateblight.JPG",
+        "Grape Black Rot": "assets/samples/grape blackrot.JPG"
+    }
     uploaded_file = st.file_uploader(
          "📤 Upload a Plant Leaf Image",
         type=["jpg", "jpeg", "png"]
     )
     
-    if uploaded_file is not None:
+    if uploaded_file is not None or sample_choice != "None":
     
         left_col, right_col = st.columns([0.8, 1.4])
     
         with left_col:
     
-            st.image(
-                uploaded_file,
-                caption="Uploaded Leaf",
-                width=220
-            )
+            if uploaded_file is not None:
+
+                st.image(
+                    uploaded_file,
+                    caption="Uploaded Leaf",
+                    width=250
+                )
+
+            else:
+
+                st.image(
+                    sample_paths[sample_choice],
+                    caption=sample_choice,
+                    width=250
+                )
     
         with right_col:
     
@@ -211,12 +239,15 @@ Upload a clear image of a plant leaf.
 
                 with st.spinner("🧠 AI is analyzing the image..."):
 
-                    temp_file = tempfile.NamedTemporaryFile(
-                        delete=False,
-                        suffix=".jpg"
-                    )
+                    temp_file = tempfile.NamedTemporaryFile(delete=False, suffix=".jpg")
 
-                    temp_file.write(uploaded_file.getvalue())
+                    if uploaded_file is not None:
+                        temp_file.write(uploaded_file.getvalue())
+
+                    else:
+                        with open(sample_paths[sample_choice], "rb") as f:
+                            temp_file.write(f.read())
+
                     temp_file.close()
 
                     leaf_ok, leaf_confidence = is_leaf(temp_file.name)
