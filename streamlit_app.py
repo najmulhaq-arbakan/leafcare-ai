@@ -194,7 +194,6 @@ Upload a clear image of a plant leaf.
         ]
     )
     sample_paths = {
-        "Apple Scab": "assets/samples/apple scab.JPG",
         "Healthy Tomato": "assets/samples/healthy tomato.JPG",
         "Potato Late Blight": "assets/samples/potato lateblight.JPG",
         "Grape Black Rot": "assets/samples/grape blackrot.JPG"
