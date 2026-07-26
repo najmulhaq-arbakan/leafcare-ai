@@ -431,6 +431,28 @@ Classes:
 - NumPy
 - Pillow
 """)
+    st.markdown("---")
+
+    st.subheader("🌱 Supported Plants")
+
+    st.write("""
+    LeafCare AI was trained using the **PlantVillage** dataset and can detect diseases in the following **14 plant species**:
+
+    - 🍎 Apple
+    - 🫐 Blueberry
+    - 🍒 Cherry (including Sour Cherry)
+    - 🌽 Corn (Maize)
+    - 🍇 Grape
+    - 🍊 Orange
+    - 🍑 Peach
+    - 🫑 Bell Pepper
+    - 🥔 Potato
+    - 🍓 Strawberry
+    - 🍅 Tomato
+    - 🫘 Soybean
+    - 🍈 Squash
+    - ❤️ Raspberry
+    """)
 
     st.markdown("---")
 
